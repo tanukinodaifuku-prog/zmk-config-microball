@@ -82,7 +82,7 @@
 
         default_layer {
             bindings = <
-&kp Q      &kp W         &kp E         &kp R                        &kp T                                                 &kp Y        &kp U  &kp I      &kp O    &kp P
+&kp QMARK  &kp W         &kp E         &kp R                        &kp T                                                 &kp Y        &kp U  &kp I      &kp O    &kp P
 &kp A      &kp S         &kp D         &kp F                        &kp G        &kp LS(LG(S))             &kp MINUS      &kp H        &kp J  &kp K      &kp L    &kp SQT
 &kp Z      &kp X         &kp C         &kp V                        &kp B        &kp COLON                 &kp SEMICOLON  &kp N        &kp M  &kp COMMA  &kp DOT  &kp SLASH
 &kp LCTRL  &kp LEFT_WIN  &kp LEFT_ALT  &mt LEFT_SHIFT INT_MUHENKAN  &lt 3 SPACE  &mt LCTRL INT_HENKAN      &kp BACKSPACE  &lt 2 ENTER                             &kp DEL
